@@ -32,10 +32,11 @@ To check quickly in greeter screen you need to reboot or restart lightdm
 
 - Regular user session
 
-    ![screenshot/Screenshot from 2016-04-01 15-14-44 Regular User Session.png]
+    ![Demo: regular user session](/screenshot/Screenshot from 2016-04-01 15-14-44 Regular User Session.png)
 
 - Lock screen
 
-    ![screenshot/Screenshot from 2016-04-01 15-15-07 Lock Screen 1.png] ![screenshot/Screenshot from 2016-04-01 15-15-41 Lock Screen 2.png]
+    ![Demo: lock screen](/screenshot/Screenshot from 2016-04-01 15-15-07 Lock Screen 1.png)
+    ![Demo: lock screen - mouse over](/screenshot/Screenshot from 2016-04-01 15-15-41 Lock Screen 2.png)
     
 - Greeter or Login screen
