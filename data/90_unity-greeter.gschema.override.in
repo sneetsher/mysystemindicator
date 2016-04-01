@@ -1,0 +1,2 @@
+[com.canonical.unity-greeter]
+indicators=['ug-accessibility', 'com.canonical.indicator.keyboard', 'com.canonical.indicator.session', 'com.canonical.indicator.datetime', 'com.canonical.indicator.power', 'com.canonical.indicator.sound', '@DBUS_NAME@', 'application']
