@@ -26,7 +26,7 @@ To check quickly in greeter screen you need to reboot or restart lightdm
 
     Better, to keep it this way as others may fall in the same pit.
 
-- System indicator has advantage of loading dynamically generated icon through g_menu (over AppIndicator that suports only static file loading)
+- System indicator has an advantage of loading dynamically generated icon through g_menu (over AppIndicator that suports only static file loading)
 
 ## Screenshots
 

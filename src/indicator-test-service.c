@@ -22,7 +22,7 @@ activate_about (GSimpleAction *action,
                         "version", PROJECT_VERSION_MAJOR "." PROJECT_VERSION_MINOR,
                         "license_type", GTK_LICENSE_GPL_3_0,
                         "wrap_license", TRUE,
-                        //"website", "https://github.com/sneetsher/",
+                        "website", "https://github.com/sneetsher/mysystemindicator",
                         "website_label", "https://github.com/sneetsher/mysystemindicator",
                         "logo_icon_name", "indicator-" SHORT_NAME,
                         NULL);

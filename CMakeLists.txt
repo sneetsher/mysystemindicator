@@ -46,3 +46,5 @@ install (DIRECTORY ${CMAKE_CURRENT_LIST_DIR}/data/ DESTINATION ${CMAKE_INSTALL_P
 install (FILES ${PROJECT_BINARY_DIR}/data/${DBUS_NAME} DESTINATION ${CMAKE_INSTALL_PREFIX}/share/unity/indicators)
 install (FILES ${PROJECT_BINARY_DIR}/data/${DBUS_NAME}.service DESTINATION ${CMAKE_INSTALL_PREFIX}/share/dbus-1/services)
 install (FILES ${PROJECT_BINARY_DIR}/data/90_unity-greeter.gschema.override DESTINATION ${CMAKE_INSTALL_PREFIX}/share/glib-2.0/schemas)
+
+install(SCRIPT post_install.cmake)
